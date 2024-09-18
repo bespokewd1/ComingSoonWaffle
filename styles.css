@@ -6,7 +6,7 @@ body, html {
 
 
   background-image: url('/images/WaffleHouse-ComingSoon.png'); /* Replace with your image URL */
-  background-size: cover; /* Makes the image cover the entire area */
+  background-size: contain; /* Makes the image cover the entire area */
   background-position: center; /* Centers the image */
   height: 100vh; /* Makes the div take up the full viewport height */
   display: flex;
